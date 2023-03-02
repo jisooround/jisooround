@@ -2,12 +2,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jisooround&show_icons=true&theme=dark">
 
-## Tech Stack
+## Tech Stack</span>
 #### Frontend
-`Javascript` `React` `Redux`
+`Javascript` `React` `Redux` <br/>
 #### Styling
-`CSS3` `Sass` `Styled-component`
+`CSS3` `Sass` `Styled-component`<br/>
 #### Visualization
-`Figma` `Adobe Photoshop` `Adobe illustration` `Adobe indesign` `rhino 3D`
-#### Studying
-`Typescript`
+`Figma` `Adobe Photoshop` `Adobe illustration` `Adobe indesign` `rhino 3D`<br/>
+
+## Learning
+`Typescript` `Fetch API` `User Experience` `Web Security Knowledge` `Build Tools`
