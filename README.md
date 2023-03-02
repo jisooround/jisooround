@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jisooround&show_icons=true&theme=dark">
 
-## Teck Stack
+## Tech Stack
 #### Frontend
 `Javascript` `React` `Redux`
 #### Styling
