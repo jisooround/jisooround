@@ -9,3 +9,5 @@
 `CSS3` `Sass` `Styled-component`
 #### Visualization
 `Figma` `Adobe Photoshop` `Adobe illustration` `Adobe indesign` `rhino 3D`
+#### Studying
+`Typescript`
