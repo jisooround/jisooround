@@ -21,5 +21,5 @@
 - [🔄 React Unit Conversion 만들기](https://github.com/jisooround/React-unit-conversion)
 - [🎨 CSS와 친해지기 위한 온라인 편집샵 클론코딩](https://github.com/jisooround/SSC-clone-coding)
 
----
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisooround%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=itunes.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+#### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisooround%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=itunes.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
