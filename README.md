@@ -10,7 +10,7 @@
 `Figma` `Adobe Photoshop` `Adobe illustration` `Adobe indesign` `rhino 3D`<br/>
 
 ## Learning
-`Typescript` `User Experience` `Web Security Knowledge` `Build Tools` `React Native` `NextJS`
+`React Native` `NextJS` `Typescript` `User Experience` `Web Security Knowledge`
 
 ## Toy Project
 - [🙊 카드 몽키 | 👬팀 프로젝트](https://github.com/jisooround/card-monkey-FE/tree/main) 
