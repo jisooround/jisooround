@@ -3,14 +3,14 @@
 
 ## Tech Stack</span>
 #### Frontend
-`Javascript` `React` `Redux` <br/>
+`Javascript` `React`<br/>
 #### Styling
 `CSS3` `Sass` `Styled-component`<br/>
 #### Visualization
 `Figma` `Adobe Photoshop` `Adobe illustration` `Adobe indesign` `rhino 3D`<br/>
 
 ## Learning
-`Typescript` `Fetch API` `User Experience` `Web Security Knowledge` `Build Tools`
+`Typescript` `User Experience` `Web Security Knowledge` `Build Tools` `React Native` `NextJS`
 
 ## Toy Project
 - [🙊 카드 몽키 | 👬팀 프로젝트](https://github.com/jisooround/card-monkey-FE/tree/main) 
