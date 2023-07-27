@@ -5,7 +5,7 @@
 #### Frontend
 `Javascript` `React`<br/>
 #### Styling
-`CSS3` `Sass` `Styled-component`<br/>
+`CSS3` `Styled-component` `Tailwind` <br/>
 #### Visualization
 `Figma` `Adobe Photoshop` `Adobe illustration` `Adobe indesign` `rhino 3D`<br/>
 
